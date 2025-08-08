@@ -15,3 +15,5 @@ static boolean isBalanced(String s) {
   }
   return st.empty;
 }
+
+public static void main(String[] args) {}
